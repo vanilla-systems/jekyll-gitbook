@@ -1,8 +1,8 @@
 ---
 title: nntp protocol
-author: Myse.f
-date: 2022-02-05
-category: Jekyll
+author: Me
+date: 2022-05-29
+category: Info
 layout: post
 ---
 
